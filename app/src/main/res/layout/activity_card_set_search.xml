@@ -34,7 +34,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="IT2050 - Terminology"
+                android:text="IT2060 - Terminology"
                 android:textColor="#ffff"
                 android:textSize="24sp"
                 app:layout_constraintLeft_toLeftOf="parent"
@@ -44,7 +44,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="30 Terms"
+                android:text="24 Terms"
                 android:textColor="#ffff"
                 android:textSize="22sp"
                 app:layout_constraintLeft_toLeftOf="parent"
@@ -56,7 +56,7 @@
                 android:layout_height="40dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:src="@mipmap/ic_rozmai_foreground"
+                android:src="@drawable/ic_baseline_account_circle_24"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
@@ -79,7 +79,7 @@
                 android:layout_height="80dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginRight="8dp"
-                android:src="@mipmap/ic_rozmai_foreground"
+                android:src="@drawable/ic_abstract"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
@@ -135,7 +135,7 @@
                 android:layout_height="40dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:src="@mipmap/ic_rozmai_foreground"
+                android:src="@drawable/ic_baseline_account_circle_24"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
@@ -158,7 +158,7 @@
                 android:layout_height="80dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginRight="8dp"
-                android:src="@mipmap/ic_rozmai_foreground"
+                android:src="@drawable/ic_random_shapes"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
@@ -192,7 +192,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="IT2050 - Terminology"
+                android:text="IT2070 - Terminology"
                 android:textColor="#ffff"
                 android:textSize="24sp"
                 app:layout_constraintLeft_toLeftOf="parent"
@@ -202,7 +202,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="5dp"
-                android:text="30 Terms"
+                android:text="16 Terms"
                 android:textColor="#ffff"
                 android:textSize="22sp"
                 app:layout_constraintLeft_toLeftOf="parent"
@@ -214,7 +214,7 @@
                 android:layout_height="40dp"
                 android:layout_marginStart="8dp"
                 android:layout_marginLeft="8dp"
-                android:src="@mipmap/ic_rozmai_foreground"
+                android:src="@drawable/ic_baseline_account_circle_24"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent" />
 
@@ -237,7 +237,7 @@
                 android:layout_height="80dp"
                 android:layout_marginEnd="8dp"
                 android:layout_marginRight="8dp"
-                android:src="@mipmap/ic_rozmai_foreground"
+                android:src="@drawable/ic_bluebasic"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 

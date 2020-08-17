@@ -4,6 +4,7 @@
     <string name="title">Title</string>
     <string name="description">Description</string>
     <string name="create_new_set">Create New Set</string>
+    <string name="create_new_set_save">Save</string>
     <string name="card_label_term">Term</string>
     <string name="card_label_definition">Definition</string>
     <string name="card_label_front">Front</string>
@@ -11,4 +12,7 @@
     <string name="card_set_max">30</string>
     <string name="card_set_right">right</string>
     <string name="card_set_wrong">wrong</string>
+    <string name="card_placeholder_text">By the same illusion which lifts the horizon of
+        the sea to the level of the spectator on a hillside</string>
+
 </resources>
