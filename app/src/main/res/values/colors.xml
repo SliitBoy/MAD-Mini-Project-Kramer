@@ -3,10 +3,6 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="charlestonGreen">#23272A</color>
-    <color name="jet">#2C2F33</color>
-    <color name="dimGray">#5E6063</color>
-    <color name="orangeWeb">#FCA311</color>
-    <color name="imperialRed">#E63946</color>
-    <color name="white">#ffff</color>
+    <color name="cardText">#F4F4F4</color>
+    <color name="BG">#393939</color>
 </resources>

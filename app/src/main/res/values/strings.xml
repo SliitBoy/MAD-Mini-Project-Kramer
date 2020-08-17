@@ -1,18 +1,23 @@
 <resources>
-    <string name="app_name">Kramer</string>
-    <string name="saved_cards">Saved Cards</string>
-    <string name="title">Title</string>
-    <string name="description">Description</string>
-    <string name="create_new_set">Create New Set</string>
-    <string name="create_new_set_save">Save</string>
-    <string name="card_label_term">Term</string>
-    <string name="card_label_definition">Definition</string>
-    <string name="card_label_front">Front</string>
-    <string name="card_label_back">Back</string>
-    <string name="card_set_max">30</string>
-    <string name="card_set_right">right</string>
-    <string name="card_set_wrong">wrong</string>
-    <string name="card_placeholder_text">By the same illusion which lifts the horizon of
-        the sea to the level of the spectator on a hillside</string>
-
+    <string name="app_name">MAD-quizes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="QuizInProgressNextQ">Next</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Question">question</string>
+    <string name="add_question">ADD QUESTION</string>
+    <string name="next">Next</string>
+    <string name="quizname">QuizName</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="tags">java,lists</string>
+    <string name="radio_button">Radio Button</string>
+    <string name="question_text_label">Question</string>
+    <string name="add_answer">ADD ANSWER</string>
+    <string-array name="quizes_array">
+        <item>Quiz 1</item>
+        <item>Quiz 2</item>
+        <item>Quiz 3</item>
+    </string-array>
 </resources>

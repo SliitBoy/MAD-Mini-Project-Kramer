@@ -2,37 +2,10 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/jet</item>
-        <item name="colorPrimaryDark">@color/charlestonGreen</item>
-        <item name="colorAccent">@color/orangeWeb</item>
-        <item name="android:colorControlNormal">@color/white</item>
-        <item name="android:editTextColor">@color/white</item>
-        <item name="android:textColorHint">@color/white</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">#ffff</item>
     </style>
-
-    <style name="MyApp.ActionBarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
-        <!-- THIS is where you can color the arrow! -->
-        <item name="colorControlNormal">@color/white</item>
-    </style>
-
-    <style name="toolbarTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
-        <item name="android:text">@color/white</item>
-    </style>
-
-
-<!--    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">-->
-<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
-<!--        <item name="colorPrimary">@color/colorPrimary</item>-->
-<!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
-<!--        <item name="colorAccent">@color/colorAccent</item>-->
-<!--    </style>-->
-
-
-<!--    <style name="Theme.App.Base" parent="Theme.MaterialComponents.DayNight">-->
-<!--        <item name="colorControlNormal">#c5c5c5</item>-->
-<!--        <item name="colorControlActivated">#c5c5c5</item>-->
-<!--        <item name="colorControlHighlight">@color/orangeWeb</item>-->
-<!--    </style>-->
-
 
 </resources>
